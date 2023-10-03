@@ -39,7 +39,14 @@
         font-size: 18px;
         line-height: 1.6;
     }
-
+    section{
+        text-align: center;
+        margin-top: 10px;
+    }
+    video{
+        width: 600px;
+        border-radius: 5px;
+    }
     /* Create a footer with a background color and centered text */
     footer {
         background-color: #333;
